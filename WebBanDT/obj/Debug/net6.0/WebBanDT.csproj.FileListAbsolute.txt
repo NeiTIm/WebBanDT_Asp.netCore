@@ -86,3 +86,5 @@ D:\HK1Nam3\DoAnPhamMemLT\WebBanDT\WebBanDT\WebBanDT\bin\Debug\net6.0\runtimes\wi
 D:\HK1Nam3\DoAnPhamMemLT\WebBanDT\WebBanDT\WebBanDT\obj\Debug\net6.0\WebBanDT.csproj.AssemblyReference.cache
 D:\HK1Nam3\DoAnPhamMemLT\WebBanDT\WebBanDT\WebBanDT\obj\Debug\net6.0\WebBanDT.csproj.Up2Date
 D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT\obj\Debug\net6.0\WebBanDT.sourcelink.json
+D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css

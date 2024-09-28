@@ -13,7 +13,7 @@ namespace WebBanDT.Models
 		public string Description { get; set; }
 		
 		[Required, MinLength(4, ErrorMessage = "Yêu cầu nhập giá sản phẩm")]
-		public decimal Price { get; set; }
+		public double Price { get; set; }
 		public int BrandId { get; set; }
 		public int CategoryId {  get; set; }
 		public CategoryModel Category { get; set; }
