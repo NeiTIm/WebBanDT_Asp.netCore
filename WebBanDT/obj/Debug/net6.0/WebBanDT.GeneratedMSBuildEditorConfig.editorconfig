@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

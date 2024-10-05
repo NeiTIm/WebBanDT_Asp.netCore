@@ -16,7 +16,7 @@ namespace WebBanDT.Controllers
 		}
 		public async Task<IActionResult> Details(int Id)
 		{
-			if(Id ==null) return RedirectToAction("Index");
+			if(Id == null) return RedirectToAction("Index");
 			var productsById = _dataContext.Products.Where(p => p.Id == Id).FirstOrDefault();
 			return View(productsById);
 		}

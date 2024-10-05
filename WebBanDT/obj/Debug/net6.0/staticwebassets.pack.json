@@ -37,18 +37,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\images\\1.jpg",
-      "PackagePath": "staticwebassets\\images\\1.jpg"
-    },
-    {
-      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\images\\2.jpg",
-      "PackagePath": "staticwebassets\\images\\2.jpg"
-    },
-    {
-      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\images\\gallery1.jpg",
-      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
-    },
-    {
       "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
@@ -311,6 +299,22 @@
     {
       "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\media\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1.jpg"
+    },
+    {
+      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\media\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\media\\products\\nendt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\nendt.jpg"
+    },
+    {
+      "Id": "D:\\HK1Nam3\\DoAnPhamMemLT\\WEBBanDT\\WEBBanDT\\WebBanDT\\wwwroot\\media\\products\\oppo_F9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\oppo_F9.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebBanDT.Microsoft.AspNetCore.StaticWebAssets.props",

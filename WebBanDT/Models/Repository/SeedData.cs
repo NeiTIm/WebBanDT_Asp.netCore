@@ -9,7 +9,7 @@ namespace WebBanDT.Models.Repository
 			_context.Database.Migrate();
 			if (!_context.Products.Any())
 			{
-				CategoryModel macbook = new CategoryModel{ Name="Macbook",Slug="macbook",Description="Apple in Large Brand in the world",Status=1};
+				CategoryModel macbook = new CategoryModel{ Name="SamSung",Slug="macbook",Description="Apple in Large Brand in the world",Status=1};
 				CategoryModel pc = new CategoryModel { Name = "PC", Slug = "pc", Description = "Samsung in Large Brand in the world", Status = 1 };
 				BrandModel apple = new BrandModel { Name = "Apple", Slug = "apple", Description = "Apple in Large Brand in the world", Status = 1 };
 				BrandModel samsung = new BrandModel { Name = "Samsung", Slug = "sumsung", Description = "Samsung in Large Brand in the world", Status = 1 };

@@ -3,48 +3,20 @@
   "WorkspaceRootPath": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,32 +27,139 @@
       "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/TEINS/Shopping_DT/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\wwwroot\\css\\prettyphoto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\wwwroot\\css\\prettyphoto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\wwwroot\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\repository\\components\\brandviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\repository\\components\\brandviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\models\\viewmodels\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|d:\\hk1nam3\\doanphammemlt\\webbandt\\webbandt\\webbandt\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522AACF1-DCC7-4E50-AEBF-35208829A4D2}|WebBanDT\\WebBanDT.csproj|solutionrelative:webbandt\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,140 +173,141 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\BrandController.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "WebBanDT\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:13:12.82Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "WebBanDT\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:12:59.541Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanDT\\appsettings.json",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\appsettings.json",
+              "RelativeToolTip": "WebBanDT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T01:45:14.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\ProductModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ProductModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:12:45.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:12:39.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CategoryModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\CategoryModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CategoryModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:12:30.48Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAAAIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T10:18:54.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BrandModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\BrandModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\BrandModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\BrandModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\BrandModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:11:58.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartItemViewModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:11:53.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Brand\\Index.cshtml",
               "RelativeDocumentMoniker": "WebBanDT\\Views\\Brand\\Index.cshtml",
               "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Brand\\Index.cshtml",
               "RelativeToolTip": "WebBanDT\\Views\\Brand\\Index.cshtml",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T14:48:24.795Z"
+              "WhenOpened": "2024-09-28T14:48:24.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Program.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Program.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Program.cs",
-              "RelativeToolTip": "WebBanDT\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAABsBAAAAAAAAAAAowCYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T09:43:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ProductModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T07:40:14.885Z"
+              "WhenOpened": "2024-10-04T05:39:03.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebBanDT\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T06:04:07.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAwwG8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T07:37:33.979Z"
+              "WhenOpened": "2024-09-28T07:37:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T07:42:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:27:44.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T15:03:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T09:51:45.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -237,73 +317,201 @@
               "RelativeDocumentMoniker": "WebBanDT\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebBanDT\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T05:53:37.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItemModel.cs",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CartItemModel.cs",
-              "RelativeDocumentMoniker": "WebBanDT\\Models\\CartItemModel.cs",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CartItemModel.cs",
-              "RelativeToolTip": "WebBanDT\\Models\\CartItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T05:40:59.431Z"
+              "WhenOpened": "2024-09-28T05:53:37.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T07:42:52.99Z"
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\SeedData.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\Repository\\SeedData.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\SeedData.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\Repository\\SeedData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:41:10.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\DataContext.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:00:17.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\Repository\\SessionExtensions.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\SessionExtensions.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\Repository\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:00:15.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T09:47:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebBanDT\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:42:52.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:12:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\BrandModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:11:58.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebBanDT\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:29:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T03:54:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebBanDT\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:12:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/TEINS/Shopping_DT/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/TEINS/Shopping_DT/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T06:21:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebBanDT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebBanDT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-28T07:48:29.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
-              "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
-              "RelativeToolTip": "WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T08:43:48.227Z"
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Program.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Program.cs",
+              "RelativeToolTip": "WebBanDT\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:40:14.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebBanDT\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "_SidebarPartial.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T07:21:36.926Z"
+              "WhenOpened": "2024-10-04T01:24:53.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
+              "Title": "prettyPhoto.css",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\prettyPhoto.css",
+              "RelativeDocumentMoniker": "WebBanDT\\wwwroot\\css\\prettyPhoto.css",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\prettyPhoto.css",
+              "RelativeToolTip": "WebBanDT\\wwwroot\\css\\prettyPhoto.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T01:17:36.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "_NotificationPartial.cshtml",
               "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\_NotificationPartial.cshtml",
               "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\_NotificationPartial.cshtml",
@@ -315,7 +523,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "WebBanDT\\wwwroot\\css\\main.css",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "WebBanDT\\wwwroot\\css\\main.css",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T01:17:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "WebBanDT\\wwwroot\\css\\font-awesome.min.css",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeToolTip": "WebBanDT\\wwwroot\\css\\font-awesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T01:17:19.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "WebBanDT\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "WebBanDT\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T01:17:16.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "animate.css",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\animate.css",
+              "RelativeDocumentMoniker": "WebBanDT\\wwwroot\\css\\animate.css",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\wwwroot\\css\\animate.css",
+              "RelativeToolTip": "WebBanDT\\wwwroot\\css\\animate.css",
+              "ViewState": "AgIAACAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T01:17:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanDT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:29:07.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "WebBanDT\\Controllers\\CartController.cs",
@@ -327,15 +595,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebBanDT\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "WebBanDT\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "BrandViewComponent.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\Components\\BrandViewComponent.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\Repository\\Components\\BrandViewComponent.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\Components\\BrandViewComponent.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\Repository\\Components\\BrandViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:27:30.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:28:44.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "WebBanDT\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:13:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:12:39.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\ViewModels\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:11:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "WebBanDT\\Models\\CartItemModel.cs",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "WebBanDT\\Models\\CartItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:40:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ToolTip": "D:\\HK1Nam3\\DoAnPhamMemLT\\WebBanDT\\WebBanDT\\WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "RelativeToolTip": "WebBanDT\\Views\\Shared\\Components\\Categories\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T15:03:15.298Z"
+              "WhenOpened": "2024-09-28T08:43:48.227Z"
             }
           ]
         }
