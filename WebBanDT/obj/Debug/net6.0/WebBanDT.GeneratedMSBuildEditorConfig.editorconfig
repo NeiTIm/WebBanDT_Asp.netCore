@@ -9,119 +9,155 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebBanDT
 build_property.RootNamespace = WebBanDT
-build_property.ProjectDir = D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT\
+build_property.ProjectDir = D:\DAPM__DA\WebBanDT_Asp.netCore\WebBanDT\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\HK1Nam3\DoAnPhamMemLT\WEBBanDT\WEBBanDT\WebBanDT
+build_property.MSBuildProjectDirectory = D:\DAPM__DA\WebBanDT_Asp.netCore\WebBanDT
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Create.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Brand/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Brand/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Edit.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Product/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Shared/Error.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Shared/_SidebarPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Shared/_SidebarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Brand/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Account/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Brand/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Cart/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Category/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Checkout/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Home/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Home/Privacy.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Home/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Product/Details.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Product/Index.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/Components/Brand/Default.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/Components/Brand/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQnJhbmRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/Components/Categories/Default.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/Error.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/_NotificationPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/_SidebarPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/_SidebarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/_ViewImports.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/_ViewStart.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9lgu9nkpqu
 
-[D:/HK1Nam3/DoAnPhamMemLT/WEBBanDT/WEBBanDT/WebBanDT/Views/Shared/_Layout.cshtml]
+[D:/DAPM__DA/WebBanDT_Asp.netCore/WebBanDT/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-enmzq0vqax

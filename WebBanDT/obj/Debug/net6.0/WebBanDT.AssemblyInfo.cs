@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBanDT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0effb0b1a93eabeec834309363781e8ca8f75c08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a99f8743c1dffc6ce58895614df761a60af692")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBanDT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBanDT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,6 +40,7 @@
             <label>Hình ảnh</label>
             <input asp-for="ImageUpload" class="form-control" />
             <span asp-validation-for="ImageUpload" class="text-danger" />
+            <img id="imgpreview" class="pt-2" />
         </div>
         <div class="form-group">
            <button class="btn-btn-primary">Tạo</button>
@@ -47,16 +48,19 @@
     </form>
     <a asp-action="Index">Quay lại</a>
 </div>
-@* @section Scripts {
+ @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
     <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+  <script>
+      $("#ImageUpload").change(function(){readURL(this) })
+      </script>
     <script>
         CKEDITOR.replace('Description');
     </script>
-} *@
-@section Scripts {
+} 
+@*@section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
@@ -71,6 +75,6 @@
             .catch(error => {
                 console.error(error);
             });
-    </script>
+    </script>*@
 }
 
